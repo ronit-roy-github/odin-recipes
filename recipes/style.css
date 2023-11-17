@@ -1,0 +1,20 @@
+body{
+    background-color: hsl(60, 74%, 52%);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    font-weight:200px;
+    font-size:xx-large;
+    color:grey;
+    text-align:center;
+}
+h2, h3{
+    font-size:large;
+    color:black;
+    font-weight:100px;
+}
+p, ul{
+    color:black;
+    font-size:medium;
+
+}
